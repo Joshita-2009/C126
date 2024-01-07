@@ -11,6 +11,6 @@ body{
 }
 canvas{
     background-color: black;
-    border-color:whitesmoke ;
+    border:5px solid whitesmoke ;
 }
 
